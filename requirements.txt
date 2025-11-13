@@ -1,0 +1,39 @@
+# Core Deep Learning Frameworks
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data Science and Numerical Computing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Image Processing
+Pillow>=9.5.0
+opencv-python>=4.8.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning Utilities
+scikit-learn>=1.3.0
+
+# Jupyter and Notebook Support
+jupyter>=1.0.0
+ipykernel>=6.25.0
+ipywidgets>=8.1.0
+
+# 3LC Integration (Data-Centric AI Platform)
+# Note: Install 3LC according to official documentation at docs.3lc.ai
+# tlc>=1.0.0  # Uncomment after registering at 3lc.ai
+
+# Progress Bars
+tqdm>=4.66.0
+
+# Experiment Tracking (Optional)
+# tensorboard>=2.13.0
+# wandb>=0.15.0
+
+# Utilities
+pyyaml>=6.0.0
+requests>=2.31.0
+
